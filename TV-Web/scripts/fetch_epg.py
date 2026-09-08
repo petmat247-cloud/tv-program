@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-fetch_epg.py — Stahuje TV program z OFICIÁLNÍHO API České televize (ČT1, ČT2)
+fetch_epg.py — Stahuje TV program z OFICIÁLNÍHO API České televize (ČT1, ČT2, ČT sport)
                a z epg.lat/cz.xml.gz (TV Nova, Prima).
 
 Zdroje:
-  ČT1, ČT2 → https://www.ceskatelevize.cz/services-old/programme/xml/schedule.php
-              Oficiální, bezplatné, bez API klíče (user=test stačí).
+  ČT1, ČT2, ČT sport → https://www.ceskatelevize.cz/services-old/programme/xml/schedule.php
+                        Oficiální, bezplatné, bez API klíče (user=test stačí).
   Nova, Prima → https://epg.lat/files/cz.xml.gz  (XMLTV/gzip)
 """
 
@@ -31,10 +31,12 @@ CT_API_URL = (
     "?user=test&date={date}&channel={channel}&json=1"
 )
 CT_CHANNELS = {
-    "ct1": {"name": "ČT1",  "id": "ct1",
-            "logo": "https://img.ceskatelevize.cz/program/user/16/bnr/ct1.png"},
-    "ct2": {"name": "ČT2",  "id": "ct2",
-            "logo": "https://img.ceskatelevize.cz/program/user/16/bnr/ct2.png"},
+    "ct1":  {"name": "ČT1",      "id": "ct1",
+             "logo": "https://img.ceskatelevize.cz/program/user/16/bnr/ct1.png"},
+    "ct2":  {"name": "ČT2",      "id": "ct2",
+             "logo": "https://img.ceskatelevize.cz/program/user/16/bnr/ct2.png"},
+    "ct4":  {"name": "ČT sport", "id": "ct4",
+             "logo": "https://img.ceskatelevize.cz/program/user/16/bnr/ct4.png"},
 }
 
 # XMLTV mapování pro Novu a Primu (ČT voláme přes vlastní API)
@@ -48,12 +50,13 @@ XMLTV_LOGOS_FALLBACK = {
     "Prima":   None,
 }
 
-CHANNEL_ORDER = ["TV Nova", "ČT1", "ČT2", "Prima"]
+CHANNEL_ORDER = ["TV Nova", "Prima", "ČT1", "ČT2", "ČT sport"]
 CHANNEL_SLUGS = {
-    "TV Nova": "tv-nova",
-    "ČT1":     "ct1",
-    "ČT2":     "ct2",
-    "Prima":   "prima",
+    "TV Nova":  "tv-nova",
+    "Prima":    "prima",
+    "ČT1":      "ct1",
+    "ČT2":      "ct2",
+    "ČT sport": "ct-sport",
 }
 
 
@@ -328,7 +331,7 @@ def build_output(ct_progs: dict, xmltv_progs: dict, xmltv_icons: dict) -> dict:
             if prima_logo is None:
                 prima_logo = xmltv_icons.get(ch_id) or XMLTV_LOGOS_FALLBACK.get("Prima")
 
-    # Sestavení kanálů v pořadí
+    # Sestavení kanálů v pořadí: Nova, Prima, ČT1, ČT2, ČT sport
     channels = [
         {
             "id":         "tv-nova",
@@ -336,6 +339,13 @@ def build_output(ct_progs: dict, xmltv_progs: dict, xmltv_icons: dict) -> dict:
             "logo":       nova_logo,
             "source":     "epg.lat",
             "programmes": nova_unique,
+        },
+        {
+            "id":         "prima",
+            "name":       "Prima",
+            "logo":       prima_logo,
+            "source":     "epg.lat",
+            "programmes": prima_progs,
         },
         {
             "id":         "ct1",
@@ -352,11 +362,11 @@ def build_output(ct_progs: dict, xmltv_progs: dict, xmltv_icons: dict) -> dict:
             "programmes": ct_progs.get("ČT2", []),
         },
         {
-            "id":         "prima",
-            "name":       "Prima",
-            "logo":       prima_logo,
-            "source":     "epg.lat",
-            "programmes": prima_progs,
+            "id":         "ct-sport",
+            "name":       "ČT sport",
+            "logo":       CT_CHANNELS["ct4"]["logo"],
+            "source":     "ceskatelevize.cz (oficiální API)",
+            "programmes": ct_progs.get("ČT sport", []),
         },
     ]
 
