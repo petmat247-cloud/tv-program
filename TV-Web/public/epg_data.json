@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:35:15Z",
+  "generated_at": "2026-11-08T11:47:16Z",
   "sources": {
     "ct": "https://www.ceskatelevize.cz/services-old/programme/xml/schedule.php",
     "xmltv": "https://epg.lat/files/cz.xml.gz"
@@ -32,265 +32,6 @@
       "logo": "https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct1.png",
       "source": "ceskatelevize.cz (oficiální API)",
       "programmes": [
-        {
-          "title": "Co naše babičky uměly a na co my jsme zapomněli",
-          "start": "2026-11-07T05:00:00Z",
-          "stop": "2026-11-08T07:08:00Z",
-          "description": "Dobrý ocet je cenný produkt a my víme, jak si ho doma vyrobit. Devátá série magazínu o dovednostech našich předků. Režie V. Karas",
-          "category": "Zábava"
-        },
-        {
-          "title": "Polopatě",
-          "start": "2026-11-07T05:25:00Z",
-          "stop": "2026-11-09T07:32:00Z",
-          "description": "Moderní hobby magazín Filipa Čapky. Užitečné informace o zahradách, bydlení a stavebních úpravách všeho druhu. Nejnovější trendy pro vaši inspiraci",
-          "category": "Magazíny"
-        },
-        {
-          "title": "Výtržníci a poctivci",
-          "start": "2026-11-07T06:15:00Z",
-          "stop": "2026-11-07T21:33:00Z",
-          "description": "Příběh na motivy japonských legend Rozsudky soudce Ooky (1988). Hrají: M. Donutil, J. Dulava, A. Jarý, L. Baselides a další. Scénář B. Budínová. Kamera P. Šindelář. Režie E. Sokolovský ml.",
-          "category": "Filmy"
-        },
-        {
-          "title": "Hádavá pohádka",
-          "start": "2026-11-07T06:30:00Z",
-          "stop": "2026-11-08T21:52:00Z",
-          "description": "Kdo má patent na hádanky? Princezna, která si myslí, že je nejkrásnější a nejchytřejší, nebo pasáček Ondra? Televizní zpracování pohádky podle J. Drdy (1969). Hrají: J. Tříska, J. Břežková, J. Pokorná, L. Píchová, V. Menšík, E. Dubský, S. Beneš a další. Scénář J. Procházka. Kamera B. Turek. Režie V. Janečková",
-          "category": "Děti a mládež"
-        },
-        {
-          "title": "Létající Čestmír",
-          "start": "2026-11-07T07:15:00Z",
-          "stop": "2026-11-09T04:26:00Z",
-          "description": "Stačí jen přivonět a svět se změní. Komediální sci-fi seriál pro celou rodinu (1983). Hrají: L. Bech, V. Menšík, Z. Hadrbolcová, P. Nárožný, I. Janžurová, I. Andrlová, I. Vyskočil, J. Sovák, A. Kala, Ž. Fuchsová, J. Kreidl a další. Scénář M. Macourek. Kamera E. Sirotek. Režie V. Vorlíček. Seriál uvádíme u příležitosti 100. výročí narození M. Macourka",
-          "category": "Děti a mládež"
-        },
-        {
-          "title": "Úsměvy Růženy Šlemrové",
-          "start": "2026-11-07T08:00:00Z",
-          "stop": "2026-11-08T23:47:00Z",
-          "description": "Zdeněk Svěrák představí výrazné role vynikající komediální herečky, od jejíhož narození v těchto dnech uplyne 140 let (1996). Režie P. Vantuch",
-          "category": "Magazíny"
-        },
-        {
-          "title": "Toulky Českem budoucnosti VI.",
-          "start": "2026-11-07T08:40:00Z",
-          "stop": "2026-11-08T10:47:00Z",
-          "description": "V podzimním speciálu Toulavé kamery se moderátorská dvojice Iveta Toušlová a Josef Maršál přenese do Česka budoucnosti. Zavede vás za firmami a vědci, kteří předběhli dobu a svými objevy a prací mění svět a hrají v něm prim",
-          "category": "Magazíny"
-        },
-        {
-          "title": "Všechny velké a malé bytosti VI",
-          "start": "2026-11-07T09:10:00Z",
-          "stop": "2026-11-09T06:09:00Z",
-          "description": "Se zvířaty to jde snadno, to s lidmi je největší kříž. Premiérová řada britského seriálu podle oblíbených knih Jamese Herriota (2025). Hrají: N. Ralph, R. Shentonová, S. West, A. Madeleyová, C. Woodhouse, P. Hodgeová, I. Clawsonová, T. Pitts, E. Walkerová a další. Režie Stewart Svaasand",
-          "category": "Seriály"
-        },
-        {
-          "title": "Všechnopárty",
-          "start": "2026-11-07T10:00:00Z",
-          "stop": "2026-11-09T13:53:00Z",
-          "description": "Zábavná talk show Karla Šípa, tentokrát s hosty Ivanem Ekrtem, Janou Synkovou a Karlem Kahovcem, který v těchto dnech oslaví 80. narozeniny (2019). Režie M. Čech",
-          "category": "Zábava"
-        },
-        {
-          "title": "StarDance XIV... kolem dokola",
-          "start": "2026-11-07T10:50:00Z",
-          "stop": "2026-11-07T14:54:00Z",
-          "description": "Exkluzivní pohled do zákulisí taneční show",
-          "category": "Zábava"
-        },
-        {
-          "title": "Z metropole",
-          "start": "2026-11-07T11:00:00Z",
-          "stop": "2026-11-08T13:00:00Z",
-          "description": "Souhrn toho nejdůležitějšího, co se událo v Praze v uplynulých sedmi dnech",
-          "category": "Magazíny"
-        },
-        {
-          "title": "Hobby naší doby",
-          "start": "2026-11-07T11:25:00Z",
-          "stop": "2026-11-08T13:24:00Z",
-          "description": "Jiřina Bohdalová v půlhodince inspirací a zajímavostí pro volný čas",
-          "category": "Magazíny"
-        },
-        {
-          "title": "Postřehy odjinud",
-          "start": "2026-11-07T11:50:00Z",
-          "stop": "2026-11-07T17:12:00Z",
-          "description": "Durynská klobása a gothaj",
-          "category": "Zábava"
-        },
-        {
-          "title": "Zprávy",
-          "start": "2026-11-07T12:00:00Z",
-          "stop": "2026-11-07T17:00:00Z",
-          "description": null,
-          "category": "Zpravodajství"
-        },
-        {
-          "title": "Plaváček",
-          "start": "2026-11-07T12:05:00Z",
-          "stop": "2026-11-10T14:05:00Z",
-          "description": "Hudební pohádka na motivy klasické pohádky Tři zlaté vlasy děda Vševěda K. J. Erbena (1986). Hrají a zpívají: S. Hložek, I. Bartošová, P. Bobek, M. Rottrová, L. Kozderková, K. Černoch, J. Helekal, J. Zíma a další. Hudba P. Skalický. Scénář M. Procházka. Kamera F. Němec. Režie J. Pokorná-Makoszová",
-          "category": "Děti a mládež"
-        },
-        {
-          "title": "Princezna Duše",
-          "start": "2026-11-07T13:20:00Z",
-          "stop": "2026-11-10T06:57:00Z",
-          "description": "Pohádka o lásce Amora ke krásné Psyché (1991). Hrají: K. Brožová, M. Dlouhý, I. Chýlková, J. Kanyza, J. Boušková, S. Nálepková, Z. Bydžovská, L. Frej, Z. Jandová, E. Jakoubková a další. Scénář J. Bednář. Kamera M. Dostál. Režie S. Simonová",
-          "category": "Děti a mládež"
-        },
-        {
-          "title": "Ideál septimy",
-          "start": "2026-11-07T14:30:00Z",
-          "stop": "2026-11-11T00:22:00Z",
-          "description": "Zpěv a plynové masky, jak to jen může jít dohromady? Česká veselohra (1938). Hrají: J. Plachta, Z. Baldová, J. Dohnal, J. Sedláčková, G. Nezval, T. Pištěk a další. Scénář K. Melíšek a K. Feix. Kamera J. Stallich. Režie V. Kubásek",
-          "category": "Filmy"
-        },
-        {
-          "title": "Nemocnice na kraji města",
-          "start": "2026-11-07T15:55:00Z",
-          "stop": "2026-11-10T02:26:00Z",
-          "description": "V borské nemocnici nastanou těžké časy – na celém oddělení zůstal primář Blažej sám... Závěr legendárního českého seriálu o lékařích, sestrách a pacientech (1981). Hrají: L. Chudík, M. Kopecký, L. Frej, E. Balzerová, J. Abrhám, O. Kaiser, I. Janžurová, J. Dvořák, A. Čunderlíková, J. Štěpánková, D. Medřická, S. Zázvorková a další. Scénář J. Dietl. Kamera J. Novotný. Režie J. Dudek",
-          "category": "Seriály"
-        },
-        {
-          "title": "Zpátky do přírody 2",
-          "start": "2026-11-07T16:55:00Z",
-          "stop": "2026-11-08T19:03:00Z",
-          "description": "Co všechno se dá vidět a zažít v české přírodě znovu objevují v druhé řadě dokumentárního cyklu moderátoři Chili Ta, M. Kořenová a Š. Benoni. Představí příběhy péče a obnovy skrytých koutů naší krajiny, vyzkouší netradiční recepty z lokálních surovin a nabídnou inspiraci, jak žít v souladu se světem kolem nás. Režie R. Drnovec",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Kluci v akci",
-          "start": "2026-11-07T17:25:00Z",
-          "stop": "2026-11-08T18:06:00Z",
-          "description": "Naše toulky za vítěznou regionální potravinou pokračují tentokrát do České Kanady v jižních Čechách. V netradičním prostředí amerických automobilových veteránů budou Ondřej Slanina a Petr Šíma připravovat pokrm v duchu tradičních diner’s bagelů s využitím trhaného masa, slaniny, vajíčka a avokáda. Režie M. Froyda",
-          "category": "Magazíny"
-        },
-        {
-          "title": "Události za okamžik a počasí",
-          "start": "2026-11-07T17:55:00Z",
-          "stop": "2026-11-07T22:45:00Z",
-          "description": "Hlavní události a předpověď počasí",
-          "category": null
-        },
-        {
-          "title": "Události",
-          "start": "2026-11-07T18:00:00Z",
-          "stop": "2026-11-09T20:00:00Z",
-          "description": "Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě",
-          "category": "Zpravodajství"
-        },
-        {
-          "title": "Branky, body, vteřiny",
-          "start": "2026-11-07T18:52:00Z",
-          "stop": "2026-11-08T07:52:00Z",
-          "description": null,
-          "category": "Sport"
-        },
-        {
-          "title": "Sladce a hladce",
-          "start": "2026-11-07T19:05:00Z",
-          "stop": "2026-11-07T21:05:00Z",
-          "description": null,
-          "category": "Zábava"
-        },
-        {
-          "title": "StarDance XIV... když hvězdy tančí",
-          "start": "2026-11-07T19:10:00Z",
-          "stop": "2026-11-11T08:10:00Z",
-          "description": "Čtrnáctá řada velkolepé taneční show. Přímým přenosem provázejí Tereza Kostková a Marek Eben. Zbývající soutěžní páry předvedou rumbu, jive a slowfox. Vše za doprovodu MoonDance Orchestra M. Kumžáka. Podpořte svůj hvězdný taneční pár! Režie V. Bělohradský",
-          "category": "Zábava"
-        },
-        {
-          "title": "StarDance XIV... když hvězdy tančí - Rozhodnutí",
-          "start": "2026-11-07T20:40:00Z",
-          "stop": "2026-11-08T11:40:00Z",
-          "description": null,
-          "category": "Zábava"
-        },
-        {
-          "title": "Atlet roku 2026",
-          "start": "2026-11-07T21:00:00Z",
-          "stop": "2026-11-11T00:00:00Z",
-          "description": "Přímý přenos slavnostního předávání cen nejlepším atletům roku 2026 uvádí Aleš Háma. Režie P. Soukup",
-          "category": "Zábava"
-        },
-        {
-          "title": "Výsledky losování Šťastných 10 a Euromiliony",
-          "start": "2026-11-07T22:19:00Z",
-          "stop": "2026-11-07T23:19:00Z",
-          "description": null,
-          "category": "Zábava"
-        },
-        {
-          "title": "Komisař Montalbano: Catalanottiho metoda",
-          "start": "2026-11-07T22:20:00Z",
-          "stop": "2026-11-12T19:05:00Z",
-          "description": "Dvě stejné mrtvoly na dvou různých adresách otevírají případ, který se stane Montalbanovým velkým finále. Závěrečná epizoda z italského kriminálního cyklu (2021). Hrají: L. Zingaretti, C. Bocci, P. Mazzotta, A. Truppoová, A. Russo a další. Režie Alberto Sironi a Luca Zingaretti",
-          "category": "Seriály"
-        },
-        {
-          "title": "Me som Jana Horváthová",
-          "start": "2026-11-08T00:20:00Z",
-          "stop": "2026-11-08T05:35:00Z",
-          "description": "Kdo inspiruje známé Romy? Webový pořad o Romech pro Romy (2024). Režie P. Kotrla",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Fenomén doby",
-          "start": "2026-11-08T00:30:00Z",
-          "stop": "2026-11-09T02:50:00Z",
-          "description": "Národní parky – ochrana přírody, místní zájmy, byznys a politika",
-          "category": "Publicistika"
-        },
-        {
-          "title": "Sama doma",
-          "start": "2026-11-08T01:05:00Z",
-          "stop": "2026-11-11T19:31:00Z",
-          "description": "Být doma neznamená šeď a nudu. Móda, zdraví, děti a tipy na víkend",
-          "category": "Zábava"
-        },
-        {
-          "title": "Banánové rybičky",
-          "start": "2026-11-08T02:35:00Z",
-          "stop": "2026-11-09T08:36:00Z",
-          "description": "Zábavná talk show Haliny Pawlowské, tentokrát na téma \"jak si užít hlad\" (2003). Spoluúčinkují H. Gregorová a M. Zounar. Režie P. Ryšavý a K. Czaban",
-          "category": "Zábava"
-        },
-        {
-          "title": "V kondici",
-          "start": "2026-11-08T03:10:00Z",
-          "stop": "2026-11-08T19:50:00Z",
-          "description": "Magazín o zdravém životním stylu (2007). Moderuje Olga Šípková",
-          "category": "Magazíny"
-        },
-        {
-          "title": "Potápěčské menu",
-          "start": "2026-11-08T03:30:00Z",
-          "stop": "2026-11-09T01:40:00Z",
-          "description": "Jak má Petr nasytit partu vyhladovělých potápěčů, kteří zrovna vylezli z ledové vody? Na zahřátí polévku a pak něco tradičního a hutného – hovězí pupek. Na ten si ale Petr sám netroufne a raději si pozve odborníky (2011)",
-          "category": "Vzdělávání"
-        },
-        {
-          "title": "Z metropole",
-          "start": "2026-11-08T03:55:00Z",
-          "stop": "2026-11-09T05:55:00Z",
-          "description": "Souhrn toho nejdůležitějšího, co se událo v Praze v uplynulých sedmi dnech",
-          "category": "Magazíny"
-        },
-        {
-          "title": "Herbář",
-          "start": "2026-11-08T04:30:00Z",
-          "stop": "2026-11-09T06:39:00Z",
-          "description": "Příroda, dobré jídlo, zdravá krajina, zahrada i člověk. A taky spousta nového! To je Herbář! Provází K. Winterová. Režie J. Včela",
-          "category": "Magazíny"
-        },
         {
           "title": "Zajímavosti z regionů",
           "start": "2026-11-08T05:00:00Z",
@@ -714,7 +455,7 @@
         {
           "title": "Bilance: Na prahu AI apokalypsy",
           "start": "2026-11-09T21:15:00Z",
-          "stop": "2026-11-10T23:15:00Z",
+          "stop": "2026-11-10T22:56:00Z",
           "description": "Umělá inteligence už přináší člověku užitek i netušené škody. Potřebují agenti AI a jejich tvůrci zkrotit?",
           "category": "Publicistika"
         },
@@ -889,7 +630,7 @@
         {
           "title": "Bilance: Na prahu AI apokalypsy",
           "start": "2026-11-10T15:45:00Z",
-          "stop": "2026-11-11T17:45:00Z",
+          "stop": "2026-11-11T17:26:00Z",
           "description": "Umělá inteligence už přináší člověku užitek i netušené škody. Potřebují agenti AI a jejich tvůrci zkrotit?",
           "category": "Publicistika"
         },
@@ -1995,7 +1736,7 @@
         {
           "title": "Bilance: Na prahu AI apokalypsy",
           "start": "2026-11-15T00:15:00Z",
-          "stop": "2026-11-16T02:15:00Z",
+          "stop": "2026-11-16T01:56:00Z",
           "description": "Umělá inteligence už přináší člověku užitek i netušené škody. Potřebují agenti AI a jejich tvůrci zkrotit?",
           "category": "Publicistika"
         },
@@ -2047,6 +1788,272 @@
           "stop": "2026-11-16T06:36:00Z",
           "description": "Příroda, dobré jídlo, zdravá krajina, zahrada i člověk. A taky spousta nového! To je Herbář! Provází K. Winterová. Režie J. Včela",
           "category": "Magazíny"
+        },
+        {
+          "title": "Zajímavosti z regionů",
+          "start": "2026-11-15T05:00:00Z",
+          "stop": "2026-11-16T06:00:00Z",
+          "description": "Události a informace z kraje, v němž žijete",
+          "category": "Zpravodajství"
+        },
+        {
+          "title": "Kristian",
+          "start": "2026-11-15T05:25:00Z",
+          "stop": "2026-11-19T05:27:00Z",
+          "description": "Otevřete oči, neodolatelný svůdce žen opět přichází... Stále svěží komedie Martina Friče o malých manželských nevěrách (1939). Hrají: O. Nový, N. Gollová, A. Mandlová, B. Veverka, J. Kohout, R. Schránil, A. Steimarová, J. Marvan a další. Scénář: M. Frič, J. Gruss a E. Šimáček. Kamera F. Pečenka",
+          "category": "Filmy"
+        },
+        {
+          "title": "Pečení na neděli",
+          "start": "2026-11-15T07:05:00Z",
+          "stop": "2026-11-16T19:01:00Z",
+          "description": "Petra Burianová, známá vítězka první řady soutěže Peče celá země, cestuje po českém a moravském venkově, poslouchá vyprávění pamětnic, a především pátrá po unikátních receptech na pečení. Tentokrát se vypravíme do Kopanic (2025). Režie Z. Fiala",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Polopatě",
+          "start": "2026-11-15T07:40:00Z",
+          "stop": "2026-11-17T09:40:00Z",
+          "description": "Moderní hobby magazín Filipa Čapky. Užitečné informace o zahradách, bydlení a stavebních úpravách všeho druhu. Nejnovější trendy pro vaši inspiraci",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Kalendárium",
+          "start": "2026-11-15T08:35:00Z",
+          "stop": "2026-11-15T21:42:00Z",
+          "description": "Zajímavá výročí týdne uvádí Saskia Burešová",
+          "category": "Vzdělávání"
+        },
+        {
+          "title": "Toulavá kamera",
+          "start": "2026-11-15T08:50:00Z",
+          "stop": "2026-11-16T13:50:00Z",
+          "description": "Mozaika z regionů",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Objektiv",
+          "start": "2026-11-15T09:20:00Z",
+          "stop": "2026-11-16T13:20:00Z",
+          "description": "Magazín zahraničních zajímavostí",
+          "category": "Magazíny"
+        },
+        {
+          "title": "F. L. Věk",
+          "start": "2026-11-15T09:55:00Z",
+          "stop": "2026-11-17T19:54:00Z",
+          "description": "František nachází svou životní lásku. Klenot české televizní tvorby, slavný seriál o počátcích národního obrození (1971). Hrají: R. Brzobohatý, E. Vosková, R. Lukavský, J. Brejchová, G. Vránová, V. Voska, B. Záhorský, V. Menšík, J. Štěpničková, J. Kemr, J. Tříska, J. Satoranský, J. Vala, M. Růžek, B. Prokoš, A. Kreuzmannová, A. Hegerlíková a další. Podle románu A. Jiráska napsal O. Zelenka. Kamera R. Stahl. Režie F. Filip",
+          "category": "Seriály"
+        },
+        {
+          "title": "StarDance XIV... kolem dokola",
+          "start": "2026-11-15T10:55:00Z",
+          "stop": "2026-11-15T14:55:00Z",
+          "description": "Exkluzivní pohled do zákulisí taneční show",
+          "category": "Zábava"
+        },
+        {
+          "title": "Nedělní debata",
+          "start": "2026-11-15T11:00:00Z",
+          "stop": "2026-11-17T23:00:00Z",
+          "description": "Nejdůležitější politické události týdne, přímé střety hlavních aktérů a odpovědi na otázky, které hýbou Českem. Hlavní diskusní pořad České televize spojuje dynamickou debatu politiků s okamžitou analýzou odborníků, kteří ověřují fakta a vysvětlují souvislosti. Moderní formát, který jde dál než běžná politická debata",
+          "category": "Publicistika"
+        },
+        {
+          "title": "Hádanice",
+          "start": "2026-11-15T12:00:00Z",
+          "stop": "2026-11-17T10:26:00Z",
+          "description": "Veselá pohádka o tom, jak kuchařka Mařka přišla o svou hádavou povahu (1990). Hrají: J. Paulová, J. Satoranský, L. Tokoš, B. Holišová, A. Vránová, J. Přeučil a další. Scénář H. Sýkorová. Kamera F. Němec. Režie V. Janečková",
+          "category": "Děti a mládež"
+        },
+        {
+          "title": "O chytrém Honzovi",
+          "start": "2026-11-15T12:45:00Z",
+          "stop": "2026-11-18T12:24:00Z",
+          "description": "Veselá hudební pohádka o Honzovi, který přemůže draka (1985). Hrají: P. Nárožný, J. Bohdalová, J. Somr, S. Zázvorková, J. Dvořák, J. Molavcová, I. Andrlová, P. Trávníček, O. Vízner, L. Krbová, D. Patrasová, L. Kozderková a další. Scénář J. K. Sýkora. Písně J. Uhlíř a Z. Svěrák. Kamera M. Dostál. Režie L. Ráža",
+          "category": "Děti a mládež"
+        },
+        {
+          "title": "Střecha nad hlavou",
+          "start": "2026-11-15T14:05:00Z",
+          "stop": "2026-11-18T14:05:00Z",
+          "description": "Jiřina Jirásková v příběhu o jednom neobvyklém hledání domova (1987). Dále hrají: J. Hrušínský, V. Jeníková, V. Jandák, D. Bartáková, V. Gajerová, J. Pomeje a další. Scénář K. Čabrádek. Kamera A. Kovács. Režie L. Koutná",
+          "category": "Filmy"
+        },
+        {
+          "title": "Území strachu",
+          "start": "2026-11-15T15:20:00Z",
+          "stop": "2026-11-19T14:02:00Z",
+          "description": "Detektivní pátrání po motivu vraždy v jedné textilní továrně (1986). Hrají: A. Molčík, O. Vízner, J. Přeučil, Z. Schulzová, D. Syslová, M. Steinmasslová, J. Havel, P. Rímský, I. Vondrovicová, J. Schwarz, R. Vrchota a další. Scénář J. Bednář a K. Štorkán. Kamera M. Horák. Režie A. Procházková",
+          "category": "Filmy"
+        },
+        {
+          "title": "Herbář",
+          "start": "2026-11-15T16:55:00Z",
+          "stop": "2026-11-16T18:55:00Z",
+          "description": "Příroda, dobré jídlo, zdravá krajina, zahrada i člověk. A taky spousta nového! To je Herbář! Provází K. Winterová. Režie J. Včela",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Co naše babičky uměly a na co my jsme zapomněli",
+          "start": "2026-11-15T17:25:00Z",
+          "stop": "2026-11-16T19:20:00Z",
+          "description": "Proč se slaví posvícení a jak se v dnešní době stát zvoníkem? Devátá série magazínu o dovednostech našich předků. Režie V. Karas",
+          "category": "Zábava"
+        },
+        {
+          "title": "Události za okamžik a počasí",
+          "start": "2026-11-15T17:55:00Z",
+          "stop": "2026-11-15T22:45:00Z",
+          "description": "Hlavní události a předpověď počasí",
+          "category": null
+        },
+        {
+          "title": "Události",
+          "start": "2026-11-15T18:00:00Z",
+          "stop": "2026-11-17T20:00:00Z",
+          "description": "Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě",
+          "category": "Zpravodajství"
+        },
+        {
+          "title": "Branky, body, vteřiny",
+          "start": "2026-11-15T18:52:00Z",
+          "stop": "2026-11-16T07:52:00Z",
+          "description": null,
+          "category": "Sport"
+        },
+        {
+          "title": "Losování Sportky a Šance",
+          "start": "2026-11-15T19:05:00Z",
+          "stop": "2026-11-15T22:05:00Z",
+          "description": null,
+          "category": "Zábava"
+        },
+        {
+          "title": "StarDance XIV... kolem dokola",
+          "start": "2026-11-15T19:10:00Z",
+          "stop": "2026-11-15T23:10:00Z",
+          "description": "Exkluzivní pohled do zákulisí taneční show",
+          "category": "Zábava"
+        },
+        {
+          "title": "Hec",
+          "start": "2026-11-15T19:20:00Z",
+          "stop": "2026-11-18T00:46:00Z",
+          "description": "Kriminalistka Alena přijíždí do Koutů uzavřít minulost. Spálený kostel a tělo nalezené v jeho troskách jí ale zkříží plány. Premiéra dramatického krimi seriálu. Hrají: P. Hřebíčková, J. Loj, S. Majer, J. Plodková, M. Borová, V. Fridrich, J. Plesl, J. Hájek, M. Steinmasslová, J. Dulava, P. Zach, D. Pavlovičová, T. Jeřábek, K. Kitto a další. Kamera J. Dvorský. Scénář a režie M. Samir",
+          "category": "Seriály"
+        },
+        {
+          "title": "Výborná SHOW",
+          "start": "2026-11-15T20:15:00Z",
+          "stop": "2026-11-17T17:15:00Z",
+          "description": "Talk show Lucie Výborné s hlasatelkou a moderátorkou Saskií Burešovou, neurochirurgem Vladimírem Benešem a sportovním moderátorem Vojtěchem Bernatským na téma \"Stálice\". Režie J. Sommer",
+          "category": "Zábava"
+        },
+        {
+          "title": "Výsledky losování Šťastných 10",
+          "start": "2026-11-15T20:59:00Z",
+          "stop": "2026-11-15T21:59:00Z",
+          "description": null,
+          "category": "Zábava"
+        },
+        {
+          "title": "Doktor Martin 2",
+          "start": "2026-11-15T21:00:00Z",
+          "stop": "2026-11-18T01:15:00Z",
+          "description": "Miroslav Donutil coby špičkový chirurg opět bravurně řeší zdravotní případy jako obvodní lékař v podhorském městečku v Beskydech. Se svou svéráznou povahou ale přesto stále naráží na další nečekané a často i úsměvné situace. Dále hrají: J. Čvančarová, N. Lichý, G. Marcinková, R. Mikluš, T. Měcháček, J. Štěpánková, V. Cibulková, J. Klem, K. Boková, M. Zelenka a další. Scénář H. Trojánek a Š. Titka. Kamera M. Holman. Režie P. Zahrádka",
+          "category": "Seriály"
+        },
+        {
+          "title": "Na kus řeči",
+          "start": "2026-11-15T22:00:00Z",
+          "stop": "2026-11-17T17:09:00Z",
+          "description": "Miroslav Donutil, Jaroslav Dušek a Eva Holubová improvizují a vyprávějí jedinečné historky (2003). Režie I. Paukert",
+          "category": "Zábava"
+        },
+        {
+          "title": "Případy detektiva Murdocha XVII",
+          "start": "2026-11-15T22:45:00Z",
+          "stop": "2026-11-17T17:06:00Z",
+          "description": "Britsko-kanadský kriminální seriál o muži, který ví, že pokrok nezastavíš (2023). Hrají: Y. Bisson, T. Craig, H. Joyová, J. Harris, D. Maslany, L. K. Murdoch a další. Režie Peter Mitchell",
+          "category": "Seriály"
+        },
+        {
+          "title": "Toulky Českem budoucnosti VI.",
+          "start": "2026-11-15T23:25:00Z",
+          "stop": "2026-11-17T01:25:00Z",
+          "description": "V podzimním speciálu Toulavé kamery se moderátorská dvojice Iveta Toušlová a Josef Maršál přenese do Česka budoucnosti. Zavede vás za firmami a vědci, kteří předběhli dobu a svými objevy a prací mění svět a hrají v něm prim",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Hobby naší doby",
+          "start": "2026-11-15T23:55:00Z",
+          "stop": "2026-11-17T01:55:00Z",
+          "description": "Jiřina Bohdalová v půlhodince inspirací a zajímavostí pro volný čas",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Po stopách hvězd",
+          "start": "2026-11-16T00:20:00Z",
+          "stop": "2026-11-17T02:29:00Z",
+          "description": "Obrazový životopis slavných – tentokrát Marie Rottrové, která v těchto dnech oslavila 85. narozeniny (2008). Režie K. Průchová",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Chalupa je hra",
+          "start": "2026-11-16T00:50:00Z",
+          "stop": "2026-11-16T22:42:00Z",
+          "description": "Jak přivést světlo do tmavé místnosti (2010). Magazín nejen pro chataře a chalupáře",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Zahrada je hra",
+          "start": "2026-11-16T01:15:00Z",
+          "stop": "2026-11-17T00:00:00Z",
+          "description": "Vzhůru na Dálný východ! (2006). Fůra nápadů pro vaši zahradu",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Bydlení je hra",
+          "start": "2026-11-16T01:35:00Z",
+          "stop": "2026-11-16T22:54:00Z",
+          "description": "Pracovna na bidýlku (2008). Magazín o kultuře bydlení",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Pod pokličkou",
+          "start": "2026-11-16T02:00:00Z",
+          "stop": "2026-11-16T23:30:00Z",
+          "description": "Pórek – mladší bratr cibule a bratranec česneku (2008). Co všechno nevíme a víme o tom, co pijeme a jíme",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Chalupa je hra",
+          "start": "2026-11-16T02:25:00Z",
+          "stop": "2026-11-17T00:31:00Z",
+          "description": "Ze stáje a kotelny pokoj v irském stylu (2010). Magazín nejen pro chataře a chalupáře",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Manéž Bolka Polívky",
+          "start": "2026-11-16T02:45:00Z",
+          "stop": "2026-11-19T00:35:00Z",
+          "description": "Spoluúčinkují: M. Eben, E. Holubová, I. Trojan, J. Kretschmerová, L. Malkina, skupina Bratři Ebenové, Barin, Fretti a další (2009). Režie R. Chudoba",
+          "category": "Zábava"
+        },
+        {
+          "title": "Banánové rybičky",
+          "start": "2026-11-16T04:00:00Z",
+          "stop": "2026-11-17T08:00:00Z",
+          "description": "Zábavná talk show Haliny Pawlowské, tentokrát na téma \"... jak přežít blbé nápady\". Spoluúčinkuje Talichovo kvarteto. Režie P. Sladký a K. Czaban",
+          "category": "Zábava"
+        },
+        {
+          "title": "Zajímavosti z regionů",
+          "start": "2026-11-16T04:30:00Z",
+          "stop": "2026-11-17T05:30:00Z",
+          "description": "Události a informace z kraje, v němž žijete",
+          "category": "Zpravodajství"
         }
       ]
     },
@@ -2056,251 +2063,6 @@
       "logo": "https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct2.png",
       "source": "ceskatelevize.cz (oficiální API)",
       "programmes": [
-        {
-          "title": "Afrika z výšky",
-          "start": "2026-11-07T05:00:00Z",
-          "stop": "2026-11-09T09:41:00Z",
-          "description": "Ohromující projekt nabízí novou perspektivu kontinentu. Každá epizoda bude tak trochu leteckým dobrodružstvím, zachycující přírodní divy, rozmanité lokace a jejich zvířenu. Francouzsko-německý dokumentární cyklus",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Ve větru kopyt",
-          "start": "2026-11-07T05:55:00Z",
-          "stop": "2026-11-09T09:23:00Z",
-          "description": "Netradiční, ve světě ojedinělý chov koní ve volné přírodě. Slovenský dokument",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Krásné země z výšky",
-          "start": "2026-11-07T06:45:00Z",
-          "stop": "2026-11-09T11:06:00Z",
-          "description": "Evropský region spojující moderní současnost a stopy krutých historických střetů. Britský dokument",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Cyklotoulky",
-          "start": "2026-11-07T07:40:00Z",
-          "stop": "2026-11-07T17:47:00Z",
-          "description": "Vydejte se s námi za těmi nejkrásnějšími místy v České republice. Tentokrát navštívíme Javornicko v Jeseníkách, tak neváhejte a pojeďte s námi!",
-          "category": "Sport"
-        },
-        {
-          "title": "S kuchařem kolem světa",
-          "start": "2026-11-07T07:50:00Z",
-          "stop": "2026-11-09T13:29:00Z",
-          "description": "Okouzlující gurmán Fred Chesneau se domluví v jakémkoli místě naší zeměkoule plné chutí a vůní! Francouzský cyklus",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Bedekr XII",
-          "start": "2026-11-07T08:50:00Z",
-          "stop": "2026-11-08T10:36:00Z",
-          "description": "Ivana Jirešová a Martin Písařík vás zavedou v nové řadě cestovatelského cyklu na sever země, kde se psaly dějiny portugalského království",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Letecké katastrofy",
-          "start": "2026-11-07T09:15:00Z",
-          "stop": "2026-11-09T04:00:00Z",
-          "description": "13. dubna 2010. Let Cathay Pacific 780 z Indonésie do Hongkongu se nacházel nad Jihočínským mořem. Jeden ze dvou motorů vysadil. Problém se podařilo vyřešit stažením na volnoběh, motor však dál nevyvíjel tah. Kanadský cyklus dokumentárních rekonstrukcí",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "GEN",
-          "start": "2026-11-07T10:00:00Z",
-          "stop": "2026-11-07T23:46:00Z",
-          "description": "Jeden z nejvýraznějších herců naší divadelní a filmové scény, od jehož narození tento týden uplynulo 90 let, o životě a rolích, při práci i vzpomínání (2001). Režie M. Dostál",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Postřehy odjinud",
-          "start": "2026-11-07T10:15:00Z",
-          "stop": "2026-11-07T15:08:00Z",
-          "description": "O lavičce Forresta Gumpa",
-          "category": "Zábava"
-        },
-        {
-          "title": "Jak se dorozumívají zvířata",
-          "start": "2026-11-07T10:25:00Z",
-          "stop": "2026-11-09T14:25:00Z",
-          "description": "Živočichové po celém světě spolu neustále komunikují. Mnohdy ani netušíme, jak důmyslně se mezi sebou dokážou dorozumět. Každý druh má svůj vlastní jedinečný a svébytný jazyk. Co si však zvířata navzájem sdělují? A jakým způsobem si vyměňují informace? Německý dokumentární cyklus",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Přírodní divy Bílých Karpat",
-          "start": "2026-11-07T11:15:00Z",
-          "stop": "2026-11-08T12:45:00Z",
-          "description": "Fascinující přírodní bohatství na hranici dvou zemí v dokumentárním cyklu. Režie P. Jurda",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Babylon",
-          "start": "2026-11-07T11:45:00Z",
-          "stop": "2026-11-08T13:49:00Z",
-          "description": "Ke svým řeckým kořenům se hlásí učitelka z Karvinska Melina Floksová. Výtvarnice a galeristka Rosana de Montfort se po třiceti letech v zahraničí vrátila do rodného kraje. Dva portréty v dokumentárním cyklu o lidech, kteří žijí jinde, než kde jsou jejich kořeny",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Temné kapitoly antického Řecka",
-          "start": "2026-11-07T12:15:00Z",
-          "stop": "2026-11-09T17:33:00Z",
-          "description": "Olympia. V 8. století př. n. l. se zde scházeli muži z celého řeckého světa, aby spolu soutěžili. Hry sloužily jako ventil pro napětí, které panovalo mezi městskými státy, jež se v té době rodily v drsné a neúrodné krajině. Epizoda z německého dokumentárního cyklu",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Příběh pěšáka podle Ernieho Pylea",
-          "start": "2026-11-07T13:10:00Z",
-          "stop": "2026-11-11T21:59:00Z",
-          "description": "Válka očima obyčejných lidí. Burgess Meredith v roli válečného reportéra Ernieho Pylea, který ve svých sloupcích zprostředkovával čtenářům autentický pohled na události 2. světové války přímo z první linie. Americké válečné drama oceněné čtyřmi nominacemi na Oscara (1945). Dále hrají: R. Mitchum, F. Steele, W. Cassell, J. Lloyd, J. R. Reilly, W. Murphy a další. Režie William A. Wellman",
-          "category": "Filmy"
-        },
-        {
-          "title": "Objevování chutí s Gordonem Ramsaym",
-          "start": "2026-11-07T14:55:00Z",
-          "stop": "2026-11-09T09:09:00Z",
-          "description": "Velké kouřové hory jsou další destinací, kde slavný britský šéfkuchař získá nové zkušenosti a změří síly s místní kulinářskou hvězdou. Britský dokumentární cyklus",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Itálie z výšky",
-          "start": "2026-11-07T15:40:00Z",
-          "stop": "2026-11-09T10:26:00Z",
-          "description": "Jih Apeninského poloostrova nabízí olivové háje se stromy starými tisíc let, úchvatné chrámy i nebezpečnou sopku, která může během chvíle zničit miliónové město. Americký dokumentární cyklus",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Dynastie II",
-          "start": "2026-11-07T16:25:00Z",
-          "stop": "2026-11-09T18:36:00Z",
-          "description": "Poznejte skutečná životní dramata charismatických zvířat, která bojují o své rodiny, o potravu či území navzdory nepřízni osudu, aby založila své vlastní dynastie. Dokumentární série BBC",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Rodičovství",
-          "start": "2026-11-07T17:20:00Z",
-          "stop": "2026-11-10T02:48:00Z",
-          "description": "Rodičovství je cesta jako žádná jiná. Nepřetržité zajišťování potravy a bezpečí pro potomky může být velmi náročné. Vědí to rodiče všech živočišných druhů. Britský dokumentární cyklus",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Klenoty příhraničí",
-          "start": "2026-11-07T18:20:00Z",
-          "stop": "2026-11-08T20:29:00Z",
-          "description": "Dříve to byly obávané nedobytné pevnosti, dnes spíše žádají naši ochranu a pomoc (2023). Ve společné dokumentární cestopisné sérii se Česká televize a RTVS věnují dávným příběhům, které se odehrály na obou stranách česko-slovenské hranice. Režie J. Bučka a M. Fulier",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Zprávy v českém znakovém jazyce",
-          "start": "2026-11-07T18:50:00Z",
-          "stop": "2026-11-08T04:50:00Z",
-          "description": null,
-          "category": "Zpravodajství"
-        },
-        {
-          "title": "Železná maska",
-          "start": "2026-11-07T19:00:00Z",
-          "stop": "2026-11-12T21:43:00Z",
-          "description": "Jean Marais jako slavný d’Artagnan, který chrání muže bez tváře a Francii. Francouzsko-italský historický film (1962). Dále hrají: S. Koscinaová, J. Rochefort, J.-F. Poron, G. Pascalová a další. Režie Henri Decoin",
-          "category": "Filmy"
-        },
-        {
-          "title": "Trainspotting",
-          "start": "2026-11-07T21:10:00Z",
-          "stop": "2026-11-11T14:58:00Z",
-          "description": "Závislost na heroinu není žádná dovolená, ale práce na plný úvazek. Černočerná feťácká komedie jako generační výpověď a zásadní kultovní dílo. Britský film (1995). Hrají: E. McGregor, E. Bremner, J. L. Miller, R. Carlyle, K. McKidd, K. Macdonaldová, S. Vidlerová, P. Mullan a další. Režie Danny Boyle",
-          "category": "Filmy"
-        },
-        {
-          "title": "Spravedlnost pro mou dceru",
-          "start": "2026-11-07T22:40:00Z",
-          "stop": "2026-11-11T09:33:00Z",
-          "description": "Odhalil pravdu, ale zaplatil vysokou cenu. Francouzsko-německé drama natočené podle skutečných událostí (2016). Hrají: D. Auteuil, S. Koch, M.-J. Crozeová, Ch. Cornilová a další. Režie Vincent Garenq",
-          "category": "Filmy"
-        },
-        {
-          "title": "Lev",
-          "start": "2026-11-08T00:05:00Z",
-          "stop": "2026-11-09T00:05:00Z",
-          "description": "Co je třeba, aby se z mladého lva stal skutečný král zvířat. Japonský dokumentární cyklus",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Abraham - otec národů",
-          "start": "2026-11-08T00:30:00Z",
-          "stop": "2026-11-08T17:32:00Z",
-          "description": "Jak ověřit spolehlivost Božích slibů? (2009). Režie M. Benc",
-          "category": "Děti a mládež"
-        },
-        {
-          "title": "Slované v Německu",
-          "start": "2026-11-08T00:50:00Z",
-          "stop": "2026-11-08T20:26:00Z",
-          "description": "Lužičtí Srbové – budoucnost malého národa (2006). Dokument J. Marka",
-          "category": "Náboženské"
-        },
-        {
-          "title": "Legendy záchranářství",
-          "start": "2026-11-08T01:10:00Z",
-          "stop": "2026-11-09T07:21:00Z",
-          "description": "Dokumentární cyklus mapující práci a nejzásadnější případy jednotlivých složek českého záchranného systému. Tato epizoda představuje unikátní systém záchrany při srdečních příhodách (2016). Scénář a režie M. a D. Vaňurovi",
-          "category": "Vzdělávání"
-        },
-        {
-          "title": "Hrubá hudba",
-          "start": "2026-11-08T01:40:00Z",
-          "stop": "2026-11-09T03:50:00Z",
-          "description": "O vzniku dvojalba, které přináší dvě podoby horňáckého folkloru – tradiční v podání muziky P. Mičky a moderní v úpravách J. Hradila se syntezátory, rapem nebo bicími (2019). Režie J. Strnad",
-          "category": "Hudba"
-        },
-        {
-          "title": "U stánků na levnou krásu",
-          "start": "2026-11-08T02:10:00Z",
-          "stop": "2026-11-09T06:13:00Z",
-          "description": "Dokument o tom, co provádí s ženskou duší písně J. Nedvěda. Zpovědi fanynek i odborné analýzy (2006). Režie B. Rychlík",
-          "category": "Dokumenty"
-        },
-        {
-          "title": "Čaj pro třetího",
-          "start": "2026-11-08T02:35:00Z",
-          "stop": "2026-11-09T04:14:00Z",
-          "description": "Co se dá zjistit na Papui Nové Guineji? Milan Uhde a Jan Konvalinka hovoří s V. Novotným, českým entomologem (2007). Režie L. Cmíral",
-          "category": "Magazíny"
-        },
-        {
-          "title": "Rodinné křižovatky",
-          "start": "2026-11-08T03:05:00Z",
-          "stop": "2026-11-09T05:28:00Z",
-          "description": "Dokument přibližující osudy výrazné brněnské osobnosti, pedagoga Otakara Záboje a jeho rodiny, na pozadí historicko-politických proměn (2007). Režie R. Zábojová",
-          "category": "Magazíny"
-        },
-        {
-          "title": "Před půlnocí",
-          "start": "2026-11-08T03:30:00Z",
-          "stop": "2026-11-09T05:35:00Z",
-          "description": "Divadlo na ulici – téma pro loutkaře J. Borka (2012)",
-          "category": "Publicistika"
-        },
-        {
-          "title": "Klima v souvislostech",
-          "start": "2026-11-08T04:00:00Z",
-          "stop": "2026-11-08T18:50:00Z",
-          "description": "Klíčové dopady klimatické změny pod drobnohledem. Jak posílit klimatickou odolnost české krajiny i tuzemských měst a obcí. Nová řada publicistického cyklu. Připravili M. Žák a D. Tichý",
-          "category": "Vzdělávání"
-        },
-        {
-          "title": "Křesťanský magazín",
-          "start": "2026-11-08T04:15:00Z",
-          "stop": "2026-11-09T06:25:00Z",
-          "description": "Pražský klášterní komplex sv. Gabriela a barokní soška anděla, která inspirovala Karla Kryla ke známé písni. Zajímavosti ze života víry. Uvádí J. Vávra",
-          "category": "Náboženské"
-        },
-        {
-          "title": "Zprávy v českém znakovém jazyce",
-          "start": "2026-11-08T04:45:00Z",
-          "stop": "2026-11-08T14:45:00Z",
-          "description": null,
-          "category": "Zpravodajství"
-        },
         {
           "title": "Stavitelé antického Říma",
           "start": "2026-11-08T05:00:00Z",
@@ -4057,6 +3819,286 @@
           "stop": "2026-11-15T14:45:00Z",
           "description": null,
           "category": "Zpravodajství"
+        },
+        {
+          "title": "Tajemství pouště Nazca",
+          "start": "2026-11-15T05:00:00Z",
+          "stop": "2026-11-17T09:58:00Z",
+          "description": "Ptáci, opice a linie táhnoucí se kilometry daleko. Mistrovská díla, jejichž autory byli příslušníci civilizace Nazca i dalších předhispánských kultur. Americký dokument",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Revoluce, které změnily svět",
+          "start": "2026-11-15T05:55:00Z",
+          "stop": "2026-11-17T09:58:00Z",
+          "description": "Smrt carovi. Tak zněla hlavní výzva vůdců nejzásadnějšího převratu v ruských dějinách do roku 1917. Epizoda z kanadského dokumentárního cyklu",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Franco: Život diktátora",
+          "start": "2026-11-15T06:50:00Z",
+          "stop": "2026-11-17T13:50:00Z",
+          "description": "Jeden z nejznámějších tyranů evropské historie vládl Španělsku takřka čtyřicet let, o 27 let déle než Hitler v Německu a o 16 let déle než Mussolini v Itálii. Francouzský dokumentární cyklus",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Československý filmový týdeník 1976",
+          "start": "2026-11-15T07:45:00Z",
+          "stop": "2026-11-15T21:02:00Z",
+          "description": "jak byl promítán v kinech právě před padesáti lety",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Hledání ztraceného času",
+          "start": "2026-11-15T08:00:00Z",
+          "stop": "2026-11-16T03:46:00Z",
+          "description": "Historik Karel Čáslavský představuje archivní filmové materiály týdeníku Aktualita z období počátku okupace, dokazující, že naděje českého národa nezemřela. Krom manifestací uvidíme také převoz ostatků K. H. Máchy a oslavy svátku svatého Václava (1994). Režie P. Vantuch",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Historie.cs",
+          "start": "2026-11-15T08:20:00Z",
+          "stop": "2026-11-17T12:20:00Z",
+          "description": "František Palacký je označován za otce národa. Z učebnic dějepisu si ho často pamatujeme jen jako mramorovou bustu. Jaký byl ale ve skutečnosti? Jaké měl záliby? Kolika mluvil jazyky? Diskutuje J. Železný se svými hosty",
+          "category": "Publicistika"
+        },
+        {
+          "title": "Poslední velký císař František Josef I.",
+          "start": "2026-11-15T09:15:00Z",
+          "stop": "2026-11-17T13:15:00Z",
+          "description": "Mezi mocí a bezmocí. Rakouský dokumentární portrét",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Paříž 1924: Převratné olympijské hry",
+          "start": "2026-11-15T10:10:00Z",
+          "stop": "2026-11-17T22:31:00Z",
+          "description": "Atmosféra olympijských her v Paříži v roce 1924 zachycená na unikátních dobových záběrech. Francouzský dokument",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Postřehy odjinud",
+          "start": "2026-11-15T11:15:00Z",
+          "stop": "2026-11-15T16:39:00Z",
+          "description": "Ústřice z Arcachonu",
+          "category": "Zábava"
+        },
+        {
+          "title": "Na cestě po Arles",
+          "start": "2026-11-15T11:20:00Z",
+          "stop": "2026-11-16T13:01:00Z",
+          "description": "S Jiřím Bartoškou a Miroslavem Donutilem po francouzském městě Arles a jeho fascinujícím okolí. Karel IV. zde byl korunován, malíř van Gogh si tu uřízl ucho a místní nedají dopustit na místní tradici býčích zápasů (2017). Režie J. Kukrál",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Nedej se",
+          "start": "2026-11-15T11:45:00Z",
+          "stop": "2026-11-16T05:45:00Z",
+          "description": "Blok občanské a ekologické publicistiky",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Občanské noviny",
+          "start": "2026-11-15T12:07:00Z",
+          "stop": "2026-11-15T19:50:00Z",
+          "description": "Představujeme občanské iniciativy, které bdí nad ochranou životního prostředí a dobrou správou věcí ve veřejném zájmu - kdo vám pomůže?",
+          "category": "Publicistika"
+        },
+        {
+          "title": "Křesťanský magazín",
+          "start": "2026-11-15T12:15:00Z",
+          "stop": "2026-11-16T14:15:00Z",
+          "description": "Zajímavosti ze života víry. Uvádí P. Vychodilová",
+          "category": "Náboženské"
+        },
+        {
+          "title": "Cesty víry",
+          "start": "2026-11-15T12:45:00Z",
+          "stop": "2026-11-16T14:38:00Z",
+          "description": "Tři významné výtvarné dílny a umělci, kteří zasvětili svůj život práci se sklem, především v liturgickém prostoru, v novém dokumentu M. Fišer Rozbrojové",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Na plovárně s Miroslavem Kořínkem",
+          "start": "2026-11-15T13:10:00Z",
+          "stop": "2026-11-16T15:24:00Z",
+          "description": "Rozhovor Marka Ebena s hercem, klavíristou, korepetitorem, pedagogem, hudebním skladatelem a aranžérem. Režie J. Hojtaš",
+          "category": "Zábava"
+        },
+        {
+          "title": "Divoká říše",
+          "start": "2026-11-15T13:40:00Z",
+          "stop": "2026-11-17T15:04:00Z",
+          "description": "Tři příběhy o jedinečných zvířatech nás zavedou na pozoruhodná místa Číny. Poznáme divokou říši legendárních zlatých opic – langurů čínských, vydáme se na Tibetskou náhorní plošinu za antilopami orongo a se slony poputujeme daleko od jejich domovské rezervace v provincii Jün-nan. Koprodukční dokumentární triptych",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Včelojed chocholatý",
+          "start": "2026-11-15T14:30:00Z",
+          "stop": "2026-11-16T14:28:00Z",
+          "description": "Neohrožený bojovník se sršněmi. Japonský dokumentární cyklus",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Starobylé stavby II",
+          "start": "2026-11-15T14:55:00Z",
+          "stop": "2026-11-17T22:16:00Z",
+          "description": "Hluboko v kambodžské džungli se ukrývá největší náboženský komplex, jaký byl kdy postaven. Francouzský dokument",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Do konce",
+          "start": "2026-11-15T15:55:00Z",
+          "stop": "2026-11-17T11:14:00Z",
+          "description": "Docusoap České televize o užívání života do poslední chvíle. Režie L. Kallistová Jablonská a J. Třešňák",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Manu a Matěj na cestě po Toskánsku",
+          "start": "2026-11-15T16:40:00Z",
+          "stop": "2026-11-16T18:47:00Z",
+          "description": "Tradiční moderátorská dvojice Emanuele Ridi a Matěj Ruppert na cestách za osobnostmi italské gastronomie, zajímavými lokálními produkty a recepty prosycenými italským sluncem. Tentokrát navštíví pohádkové údolí Valdinievole. Režie M. Herz",
+          "category": "Zábava"
+        },
+        {
+          "title": "Příběhy staveb",
+          "start": "2026-11-15T17:10:00Z",
+          "stop": "2026-11-16T01:10:00Z",
+          "description": "Nejzajímavější stavební projekty realizované na našem území od vzniku samostatné České republiky. Připravili P. Miškejová a S. Schneeweis",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Blyštivá historie Havany",
+          "start": "2026-11-15T17:20:00Z",
+          "stop": "2026-11-17T12:20:00Z",
+          "description": "Havana je v 50. letech minulého století okouzlující metropolí, která přitahuje spisovatele, celebrity i významné politické osobnosti. Německý dokument",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Zašlapané projekty",
+          "start": "2026-11-15T18:05:00Z",
+          "stop": "2026-11-16T10:02:00Z",
+          "description": "Jak skončil sen o českém lidovém automobilu. Dokument z cyklu o unikátních nápadech, projektech a objevech, které za minulého režimu nesměly spatřit světlo světa (2009). Připravili: J. Skalický, M. Švihálek a J. Procházka",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Zajímavosti z regionů",
+          "start": "2026-11-15T18:20:00Z",
+          "stop": "2026-11-16T19:20:00Z",
+          "description": "Události a informace z kraje, v němž žijete",
+          "category": "Zpravodajství"
+        },
+        {
+          "title": "Zprávy v českém znakovém jazyce",
+          "start": "2026-11-15T18:50:00Z",
+          "stop": "2026-11-16T04:50:00Z",
+          "description": null,
+          "category": "Zpravodajství"
+        },
+        {
+          "title": "Bezejmenná kulka",
+          "start": "2026-11-15T19:00:00Z",
+          "stop": "2026-11-18T20:49:00Z",
+          "description": "Zná ho celý Divoký západ. Pro koho si přišel tentokrát? Klasický americký western o malém městě, které příchod obávaného zabijáka uvrhne do strachu a chaosu (1959). Hrají: A. Murphy, C. Drake, J. Evansová, V. Greyová, W. Stevens, R. G. Armstrong, W. Bouchey, E. Stehli a další. Režie Jack Arnold",
+          "category": "Filmy"
+        },
+        {
+          "title": "Útěk z vězení",
+          "start": "2026-11-15T20:20:00Z",
+          "stop": "2026-11-19T17:03:00Z",
+          "description": "Robert Duvall jako neprávem odsouzený trestanec. Ven ho mohou dostat jen dvě věci – balík peněz a Charles Bronson! Americký akční film (1975). Dále hrají: J. Irelandová, R. Quaid, S. Northová, J. Moreno a další. Režie Tom Gries",
+          "category": "Filmy"
+        },
+        {
+          "title": "JFK: 24 hodin, které změnily svět",
+          "start": "2026-11-15T21:55:00Z",
+          "stop": "2026-11-17T20:15:00Z",
+          "description": "Archivní speciál pokrývající poslední hodiny funkčního období prezidenta Johna F. Kennedyho a následné zatčení a vraždu střelce Lee Harveyho Oswalda. Britský dokument",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Na základní čáře: Příběh Richarda Williamse",
+          "start": "2026-11-15T22:45:00Z",
+          "stop": "2026-11-19T14:36:00Z",
+          "description": "Příběh Richarda Williamse je příběhem syna sběračky bavlny z Louisiany, prvního trenéra svých dcer, který je dovedl z ghetta až na tenisový trůn. Americký dokumentární film",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Metuzalém",
+          "start": "2026-11-16T00:15:00Z",
+          "stop": "2026-11-16T15:19:00Z",
+          "description": "Jak úspěšně stárnout. Eseje F. Koukolíka (2012). Připravil O. Reif",
+          "category": "Vzdělávání"
+        },
+        {
+          "title": "Ztracené svitky z Herculanea",
+          "start": "2026-11-16T00:30:00Z",
+          "stop": "2026-11-18T08:10:00Z",
+          "description": "Herculaneum, město pohřbené erupcí Vesuvu, znovu povstává z nánosů popela. Nejcennější poklady, které tu archeologové objevili, však nejsou ze zlata, bronzu ani mramoru. Koprodukční dokument",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "To mě baví",
+          "start": "2026-11-16T01:25:00Z",
+          "stop": "2026-11-16T23:58:00Z",
+          "description": "Magazín o myslivosti pro všechny milovníky přírody (2004). Režie V. Fatka",
+          "category": "Magazíny"
+        },
+        {
+          "title": "Ztracené adresy",
+          "start": "2026-11-16T01:50:00Z",
+          "stop": "2026-11-16T21:14:00Z",
+          "description": "Jizerskou osadu proslavili skláři a zahubili vojáci. Počítačová současnost probouzí, co minulost pohřbila (2011). Režie J. Tabery",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Tajemství železnic",
+          "start": "2026-11-16T02:10:00Z",
+          "stop": "2026-11-17T03:57:00Z",
+          "description": "Martin Dejdar provází pozoruhodným světem na kolejích. Cyklus dokumentů mapujících známá i méně známá místa naší železné dráhy (2012). Připravili J. Slomiany a J. Novák",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Přísně tajné vraždy",
+          "start": "2026-11-16T02:35:00Z",
+          "stop": "2026-11-16T16:33:00Z",
+          "description": "Hon v pohraničním pásmu skončil smrtí německého civilisty. Odhalujeme viníky případů, které měly zůstat zapomenuty (2010). Režie P. Všelichová",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Babylon",
+          "start": "2026-11-16T02:50:00Z",
+          "stop": "2026-11-17T04:32:00Z",
+          "description": "Miroslav Konvalina, novinář, který řadu roků žil a pracoval v USA. Portrét v dokumentárním cyklu",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Postřehy odjinud",
+          "start": "2026-11-16T03:15:00Z",
+          "stop": "2026-11-16T09:10:00Z",
+          "description": "Babičky v neoprenu",
+          "category": "Zábava"
+        },
+        {
+          "title": "Člověk, kůň a les",
+          "start": "2026-11-16T03:25:00Z",
+          "stop": "2026-11-17T05:35:00Z",
+          "description": "Lidský um a koňská síla jsou odvěkými spojenci v boji o dřevo (2014). Režie A. Koudela",
+          "category": "Publicistika"
+        },
+        {
+          "title": "Jak se dorozumívají zvířata",
+          "start": "2026-11-16T03:50:00Z",
+          "stop": "2026-11-18T07:50:00Z",
+          "description": "Živočichové po celém světě spolu neustále komunikují. Mnohdy ani netušíme, jak důmyslně se mezi sebou dokážou dorozumět. Každý druh má svůj vlastní jedinečný a svébytný jazyk. Co si však zvířata navzájem sdělují? A jakým způsobem si vyměňují informace? Německý dokument",
+          "category": "Dokumenty"
+        },
+        {
+          "title": "Zprávy v českém znakovém jazyce",
+          "start": "2026-11-16T04:45:00Z",
+          "stop": "2026-11-16T14:45:00Z",
+          "description": null,
+          "category": "Zpravodajství"
         }
       ]
     },
@@ -4066,139 +4108,6 @@
       "logo": "https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct4.png",
       "source": "ceskatelevize.cz (oficiální API)",
       "programmes": [
-        {
-          "title": "MS v parkouru 2026",
-          "start": "2026-11-07T05:00:00Z",
-          "stop": "2026-11-08T12:53:00Z",
-          "description": "Ohlédnutí za světovým šampionátem (Brno)",
-          "category": "Sport"
-        },
-        {
-          "title": "Sportovní legendy",
-          "start": "2026-11-07T05:30:00Z",
-          "stop": "2026-11-07T15:04:00Z",
-          "description": "Medailon bývalého československého veslaře, dvojnásobného bronzového medailisty v závodech osmiveslic z OH 1960 a 1964",
-          "category": "Sport"
-        },
-        {
-          "title": "BBV po 25 letech",
-          "start": "2026-11-07T05:45:00Z",
-          "stop": "2026-11-07T14:24:00Z",
-          "description": "Takové bylo sportovní zpravodajství před čtvrtstoletím...",
-          "category": "Sport"
-        },
-        {
-          "title": "Panorama",
-          "start": "2026-11-07T05:55:00Z",
-          "stop": "2026-11-08T11:55:00Z",
-          "description": "Aktuální povětrnostní zpravodajství pohledem panoramatických kamer",
-          "category": null
-        },
-        {
-          "title": "ISU Grand Prix 2026",
-          "start": "2026-11-07T06:30:00Z",
-          "stop": "2026-11-11T00:30:00Z",
-          "description": "Přímý přenos volných tanců (Šen-čen)",
-          "category": "Sport"
-        },
-        {
-          "title": "Olympijské hry mládeže Dakar 2026",
-          "start": "2026-11-07T08:00:00Z",
-          "stop": "2026-11-09T20:00:00Z",
-          "description": "Přehled dění předchozího dne",
-          "category": "Sport"
-        },
-        {
-          "title": "ISU Grand Prix 2026",
-          "start": "2026-11-07T09:00:00Z",
-          "stop": "2026-11-10T12:00:00Z",
-          "description": "Přímý přenos volných jízd žen (Šen-čen)",
-          "category": "Sport"
-        },
-        {
-          "title": "Hokej na zemi",
-          "start": "2026-11-07T10:15:00Z",
-          "stop": "2026-11-08T10:56:00Z",
-          "description": "Magazín domácího i zahraničního pozemního hokeje",
-          "category": "Sport"
-        },
-        {
-          "title": "FORTUNA LYGA 2026/2027",
-          "start": "2026-11-07T10:45:00Z",
-          "stop": "2026-11-13T09:29:00Z",
-          "description": "Přímý přenos utkání 11. kola nejvyšší ligy žen",
-          "category": "Sport"
-        },
-        {
-          "title": "Euro Hockey Tour mužů 2026/2027",
-          "start": "2026-11-07T13:15:00Z",
-          "stop": "2026-11-11T19:24:00Z",
-          "description": "Přímý přenos utkání Nocco Hockey Games (Helsinky)",
-          "category": "Sport"
-        },
-        {
-          "title": "ISU Grand Prix 2026",
-          "start": "2026-11-07T15:05:00Z",
-          "stop": "2026-11-09T17:05:00Z",
-          "description": "Záznam volných jízd sportovních dvojic (Šen-čen)",
-          "category": "Sport"
-        },
-        {
-          "title": "Euro Hockey Tour mužů 2026/2027",
-          "start": "2026-11-07T16:00:00Z",
-          "stop": "2026-11-15T11:23:00Z",
-          "description": "Přímý přenos utkání Nocco Hockey Games (Helsinky)",
-          "category": "Sport"
-        },
-        {
-          "title": "ME XV U18 mužů 2026",
-          "start": "2026-11-07T19:25:00Z",
-          "stop": "2026-11-12T00:38:00Z",
-          "description": "Záznam utkání (Praha)",
-          "category": "Sport"
-        },
-        {
-          "title": "MS v baseballu U23 2026 Nikaragua",
-          "start": "2026-11-07T21:15:00Z",
-          "stop": "2026-11-19T14:55:00Z",
-          "description": "Záznam utkání základní skupiny (Managua)",
-          "category": "Sport"
-        },
-        {
-          "title": "Branky, body, vteřiny",
-          "start": "2026-11-08T00:20:00Z",
-          "stop": "2026-11-08T13:20:00Z",
-          "description": null,
-          "category": "Sport"
-        },
-        {
-          "title": "FORTUNA LYGA 2026/2027",
-          "start": "2026-11-08T00:35:00Z",
-          "stop": "2026-11-12T08:50:00Z",
-          "description": "Záznam utkání 11. kola nejvyšší ligy žen - jen hra",
-          "category": "Sport"
-        },
-        {
-          "title": "Branky, body, vteřiny",
-          "start": "2026-11-08T02:25:00Z",
-          "stop": "2026-11-08T15:25:00Z",
-          "description": null,
-          "category": "Sport"
-        },
-        {
-          "title": "Euro Hockey Tour mužů 2026/2027",
-          "start": "2026-11-08T02:40:00Z",
-          "stop": "2026-11-12T20:30:00Z",
-          "description": "Záznam utkání Nocco Hockey Games (Helsinky) - jen hra",
-          "category": "Sport"
-        },
-        {
-          "title": "Branky, body, vteřiny",
-          "start": "2026-11-08T04:40:00Z",
-          "stop": "2026-11-08T17:40:00Z",
-          "description": null,
-          "category": "Sport"
-        },
         {
           "title": "ISU Grand Prix 2026",
           "start": "2026-11-08T05:00:00Z",
@@ -4251,7 +4160,7 @@
         {
           "title": "Euro Hockey Tour mužů 2026/2027",
           "start": "2026-11-08T12:00:00Z",
-          "stop": "2026-11-16T08:26:00Z",
+          "stop": "2026-11-16T08:29:00Z",
           "description": "Přímý přenos utkání Nocco Hockey Games (Helsinky)",
           "category": "Sport"
         },
@@ -4265,14 +4174,14 @@
         {
           "title": "Kvalifikace ME mužů 2028",
           "start": "2026-11-08T15:50:00Z",
-          "stop": "2026-11-13T14:49:00Z",
+          "stop": "2026-11-13T10:45:00Z",
           "description": "Přímý přenos 2. utkání (Tuzla)",
           "category": "Sport"
         },
         {
           "title": "MS v ledním hokeji žen 2026 Dánsko",
           "start": "2026-11-08T18:00:00Z",
-          "stop": "2026-11-15T00:00:00Z",
+          "stop": "2026-11-15T00:14:00Z",
           "description": "Přímý přenos utkání základní skupiny (Esbjerg)",
           "category": "Sport"
         },
@@ -5463,6 +5372,174 @@
           "title": "Branky, body, vteřiny",
           "start": "2026-11-15T04:10:00Z",
           "stop": "2026-11-15T17:10:00Z",
+          "description": null,
+          "category": "Sport"
+        },
+        {
+          "title": "ISU Grand Prix 2026",
+          "start": "2026-11-15T04:30:00Z",
+          "stop": "2026-11-18T12:30:00Z",
+          "description": "Přímý přenos volných jízd sportovních dvojic (Everett)",
+          "category": "Sport"
+        },
+        {
+          "title": "SP v alpském lyžování 2026/2027",
+          "start": "2026-11-15T05:50:00Z",
+          "stop": "2026-11-18T03:50:00Z",
+          "description": "Záznam 2. kola slalomu žen (Levi)",
+          "category": "Sport"
+        },
+        {
+          "title": "Panorama",
+          "start": "2026-11-15T07:00:00Z",
+          "stop": "2026-11-16T13:00:00Z",
+          "description": "Aktuální povětrnostní zpravodajství pohledem panoramatických kamer",
+          "category": null
+        },
+        {
+          "title": "BBV po 25 letech",
+          "start": "2026-11-15T07:35:00Z",
+          "stop": "2026-11-15T16:24:00Z",
+          "description": "Takové bylo sportovní zpravodajství před čtvrtstoletím...",
+          "category": "Sport"
+        },
+        {
+          "title": "Sokolský zpravodaj",
+          "start": "2026-11-15T07:45:00Z",
+          "stop": "2026-11-15T17:45:00Z",
+          "description": "Aktuality ze sokolského hnutí",
+          "category": "Sport"
+        },
+        {
+          "title": "Studio ČT sport",
+          "start": "2026-11-15T08:00:00Z",
+          "stop": "2026-11-17T05:00:00Z",
+          "description": "Kontinuální přehled dosavadního i očekávaného dění",
+          "category": "Sport"
+        },
+        {
+          "title": "SP v alpském lyžování 2026/2027",
+          "start": "2026-11-15T08:50:00Z",
+          "stop": "2026-11-19T02:50:00Z",
+          "description": "Přímý přenos 1. kola slalomu mužů (Levi)",
+          "category": "Sport"
+        },
+        {
+          "title": "SP v rychlobruslení 2026/2027",
+          "start": "2026-11-15T10:20:00Z",
+          "stop": "2026-11-19T09:20:00Z",
+          "description": "Přímý přenos stíhacího závodu družstev, 500 m žen a mužů a závodu s hromadným startem (Peking)",
+          "category": "Sport"
+        },
+        {
+          "title": "SP v alpském lyžování 2026/2027",
+          "start": "2026-11-15T11:55:00Z",
+          "stop": "2026-11-18T04:55:00Z",
+          "description": "Přímý přenos 2. kola slalomu mužů (Levi)",
+          "category": "Sport"
+        },
+        {
+          "title": "Studio ČT sport",
+          "start": "2026-11-15T13:00:00Z",
+          "stop": "2026-11-16T14:00:00Z",
+          "description": "Kontinuální přehled dosavadního i očekávaného dění",
+          "category": "Sport"
+        },
+        {
+          "title": "ISU Grand Prix 2026",
+          "start": "2026-11-15T13:25:00Z",
+          "stop": "2026-11-19T22:25:00Z",
+          "description": "Záznam volných jízd mužů (Everett)",
+          "category": "Sport"
+        },
+        {
+          "title": "Studio ČT sport",
+          "start": "2026-11-15T15:10:00Z",
+          "stop": "2026-11-16T06:10:00Z",
+          "description": "Kontinuální přehled dosavadního i očekávaného dění",
+          "category": "Sport"
+        },
+        {
+          "title": "Tipsport ELH 2026/2027",
+          "start": "2026-11-15T15:30:00Z",
+          "stop": "2026-11-23T16:30:00Z",
+          "description": "Přímý přenos utkání 19. kola nejvyšší ligy mužů",
+          "category": "Sport"
+        },
+        {
+          "title": "Liga národů UEFA mužů 2026/2027",
+          "start": "2026-11-15T19:00:00Z",
+          "stop": "2026-11-17T06:00:00Z",
+          "description": null,
+          "category": "Sport"
+        },
+        {
+          "title": "Liga národů UEFA mužů 2026/2027",
+          "start": "2026-11-15T19:35:00Z",
+          "stop": "2026-11-20T19:35:00Z",
+          "description": "Přímý přenos utkání 6. kola Ligy A (Osijek)",
+          "category": "Sport"
+        },
+        {
+          "title": "Liga národů UEFA mužů 2026/2027",
+          "start": "2026-11-15T21:45:00Z",
+          "stop": "2026-11-17T18:45:00Z",
+          "description": null,
+          "category": "Sport"
+        },
+        {
+          "title": "Maxa liga 2026/2027",
+          "start": "2026-11-15T22:35:00Z",
+          "stop": "2026-11-16T18:35:00Z",
+          "description": "Sestřih utkání druhé nejvyšší ligy mužů",
+          "category": "Sport"
+        },
+        {
+          "title": "ISU Grand Prix 2026",
+          "start": "2026-11-15T23:00:00Z",
+          "stop": "2026-11-19T22:00:00Z",
+          "description": "Záznam volných tanců (Everett)",
+          "category": "Sport"
+        },
+        {
+          "title": "Branky, body, vteřiny",
+          "start": "2026-11-16T00:40:00Z",
+          "stop": "2026-11-16T13:40:00Z",
+          "description": null,
+          "category": "Sport"
+        },
+        {
+          "title": "Tipsport ELH 2026/2027",
+          "start": "2026-11-16T00:55:00Z",
+          "stop": "2026-11-20T19:55:00Z",
+          "description": "Záznam utkání 19. kola nejvyšší ligy mužů - jen hra",
+          "category": "Sport"
+        },
+        {
+          "title": "Branky, body, vteřiny",
+          "start": "2026-11-16T02:55:00Z",
+          "stop": "2026-11-16T15:55:00Z",
+          "description": null,
+          "category": "Sport"
+        },
+        {
+          "title": "SP v alpském lyžování 2026/2027",
+          "start": "2026-11-16T03:10:00Z",
+          "stop": "2026-11-18T20:10:00Z",
+          "description": "Záznam 2. kola slalomu mužů (Levi)",
+          "category": "Sport"
+        },
+        {
+          "title": "Maxa liga 2026/2027",
+          "start": "2026-11-16T04:20:00Z",
+          "stop": "2026-11-17T00:20:00Z",
+          "description": "Sestřih utkání druhé nejvyšší ligy mužů",
+          "category": "Sport"
+        },
+        {
+          "title": "Branky, body, vteřiny",
+          "start": "2026-11-16T04:40:00Z",
+          "stop": "2026-11-16T17:40:00Z",
           "description": null,
           "category": "Sport"
         }
